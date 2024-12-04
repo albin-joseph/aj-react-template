@@ -99,3 +99,8 @@ To create a new module, run:
 **Example:**  
 For the `Home` module:  
 ```npm run create-module Home```
+
+**Note:**  
+- Based on your Node.js and npm version mismatch, there is a chance of conflicts occurring. Please address such conflicts carefully.  
+- You can add additional configurations as needed for your project.  
+
